@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["console","log"],"mappings":";;;AAIA,aAJA,QAAA,mBAEAA,QAAQC,IAAI,QAEZD,QAAQC,IAAI","file":"index.map","sourceRoot":"..","sourcesContent":["import './src/css/index'\r\n\r\nconsole.log('test')\r\n\r\nconsole.log('000')\r\n"]}
