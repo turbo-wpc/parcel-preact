@@ -1059,7 +1059,7 @@ babel-plugin-transform-exponentiation-operator@^6.22.0:
     babel-plugin-syntax-exponentiation-operator "^6.8.0"
     babel-runtime "^6.22.0"
 
-babel-plugin-transform-react-jsx@^6.0.2:
+babel-plugin-transform-react-jsx@^6.0.2, babel-plugin-transform-react-jsx@^6.24.1:
   version "6.24.1"
   resolved "http://10.168.66.124:8085/babel-plugin-transform-react-jsx/-/babel-plugin-transform-react-jsx-6.24.1.tgz#840a028e7df460dfc3a2d29f0c0d91f6376e66a3"
   dependencies:

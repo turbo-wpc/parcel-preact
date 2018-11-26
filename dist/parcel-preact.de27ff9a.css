@@ -1,0 +1,6 @@
+body {
+  background: steelblue;
+  color: white; }
+  body p {
+    color: red;
+    font-size: 24px; }
